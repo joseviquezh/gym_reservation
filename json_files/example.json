@@ -1,0 +1,10 @@
+{
+  "user": "",
+  "pass": "",
+  "days": {
+    "YYYY-MM-DD": {
+      "area": "",
+      "time": "HH:MM"
+    }
+  }
+}
